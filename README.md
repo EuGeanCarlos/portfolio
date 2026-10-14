@@ -27,7 +27,7 @@ Use Node.js 22.12 ou superior e o lockfile versionado. Para compilar, execute np
 
 ## Demonstração e publicação
 
-Execução local. Nenhuma demonstração nova foi confirmada nesta etapa.
+[Acessar demonstração verificada](https://eugeancarlos.github.io/portfolio/)
 
 ## Estrutura versionada
 
@@ -68,3 +68,7 @@ Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue
 [GitHub](https://github.com/EuGeanCarlos)
 
 Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+## Validação desta auditoria — 14/10/2026
+
+PUBLICADO: [workflow confirmado](https://github.com/EuGeanCarlos/portfolio/actions/runs/38610813621), HTTP 200, conteúdo correspondente ao projeto e 3 recursos locais verificados. Build e lint locais aprovados. Lockfile reparado para npm ci no Linux; workflow e deploy confirmados. A aplicação continua sendo o contador original do Vite.
